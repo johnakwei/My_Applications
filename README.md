@@ -1,4 +1,4 @@
-My-Menu-Program
+My_Applications
 ===============
 
 A repository of my applications.
